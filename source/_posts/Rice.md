@@ -1,7 +1,7 @@
 ---
-title: Rice :3
-date: 2016-12-08 12:53:46
+title: Rice
+date: 2016-12-08 13:26:30
 tags:
 ---
-This is my rice, its a somewhat broken but its mine. :3
-
+No Rice no Life
+{% asset_img clean.png [clean] %}
